@@ -1,0 +1,12 @@
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\bin\Debug\net6.0\TheatreApi.Converter.deps.json
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\bin\Debug\net6.0\TheatreApi.Converter.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\bin\Debug\net6.0\TheatreApi.Converter.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.csproj.AssemblyReference.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.AssemblyInfoInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.AssemblyInfo.cs
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.csproj.CoreCompileInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\refint\TheatreApi.Converter.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\TheatreApi.Converter.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Converter\obj\Debug\net6.0\ref\TheatreApi.Converter.dll

@@ -1,0 +1,31 @@
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.deps.json
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.AssemblyInfo.cs
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\refint\TheatreApi.DataAccess.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\ref\TheatreApi.DataAccess.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.runtimeconfig.json
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.genruntimeconfig.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.Converter.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.Converter.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.csproj.CopyComplete
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.deps.json
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.runtimeconfig.json
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.dll
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\bin\Debug\net6.0\TheatreApi.DataAccess.pdb
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.csproj.AssemblyReference.cache
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.AssemblyInfoInputs.cache
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.AssemblyInfo.cs
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.csproj.CoreCompileInputs.cache
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.dll
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\refint\TheatreApi.DataAccess.dll
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.pdb
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\TheatreApi.DataAccess.genruntimeconfig.cache
+D:\work laptop 2022\backup laptop stefanini\backup work\TheatreApi\TheatreApi.DataAccess\obj\Debug\net6.0\ref\TheatreApi.DataAccess.dll

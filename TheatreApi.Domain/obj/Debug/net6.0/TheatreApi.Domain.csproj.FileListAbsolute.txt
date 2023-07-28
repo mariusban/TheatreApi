@@ -1,0 +1,17 @@
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.csproj.AssemblyReference.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.AssemblyInfoInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.AssemblyInfo.cs
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.Domain.deps.json
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.Domain.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.Domain.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.DataAccess.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.DataAccess.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.csproj.CopyComplete
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\refint\TheatreApi.Domain.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\TheatreApi.Domain.pdb
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\obj\Debug\net6.0\ref\TheatreApi.Domain.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.Converter.dll
+C:\Users\mbanciu1\source\repos\TheatreApi\TheatreApi.Domain\bin\Debug\net6.0\TheatreApi.Converter.pdb
